@@ -1,0 +1,18 @@
+{
+  "name": "ArduinoSpiderBot",
+  "version": "1.0.0",
+  "description": "Quadruped spider robot with IK and sensor fusion for Arduino Uno.",
+  "keywords": "robotics, servo, quadruped, kinematics",
+  "authors": [
+    {
+      "name": "Your Name",
+      "email": "your.email@example.com"
+    }
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/yourusername/Arduino-Spider-Bot.git"
+  },
+  "examples": "examples/*/*.ino",
+  "frameworks": "arduino"
+}
