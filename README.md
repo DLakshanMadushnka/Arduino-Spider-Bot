@@ -3,8 +3,8 @@
 A quadruped robot with inverse kinematics and gesture control for educational prototyping.
 
 ## Hardware BOM
-- Arduino Uno: 1
-- SG90 Servos: 12
+- Arduino nano: 1
+- MG90 Servos: 12
 - HC-SR04 Ultrasonic: 1
 - MPU-6050 Accelerometer: 1
 - Jumper Wires/Breadboard: Assorted
